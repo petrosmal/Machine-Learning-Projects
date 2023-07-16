@@ -2,7 +2,9 @@
 
 
 ## Datasets:
- -Airline Passenger Satisfaction
+ - Airline Passenger Satisfaction - Bootcamp
+ - Stroke Healthcare
+ - Credit Card
 
 ## Algorithms:
 #### - Linear Regression:
