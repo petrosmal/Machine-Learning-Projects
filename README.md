@@ -10,6 +10,7 @@
    passenger satisfaction. It was performed during the Big Blue Data Science Bootcamp (2023).
  - Stroke Healthcare
  - Credit Card
+ - Smoke Detection
 
 ## Algorithms:
 #### - Linear Regression:
