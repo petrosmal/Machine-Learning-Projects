@@ -74,6 +74,24 @@ This project analyzes a dataset containing an airline passenger satisfaction sur
 3. Machine Learning
 
 
+## 2. Pneumonia Detection
+This project aims to develop a deep learning model for the detection of pneumonia from chest X-ray images. Utilizing the dataset provided by Kaggle, the model classifies X-ray images into two categories: pneumonia and normal (healthy). The goal is to aid in the early and accurate diagnosis of pneumonia, which is crucial for effective treatment and patient care.
+### Data - Files:
+- Pneumonia.ipynb : The jupyter code notebook
+### Context of Dataset
+The dataset used in this project is the "Chest X-Ray Images (Pneumonia)" dataset available on Kaggle. It contains:
+
+- Training set: 5,216 images
+- Validation set: 16 images
+- Test set: 624 images
+Each set contains images labeled as either pneumonia or normal.
+### Steps 
+1. Setup and Data Preparation
+2. Data Augmentation
+3. Build the CNN Model
+4. Compile the Model
+5. Train the Model
+6. Evaluate the Model
 
 ### The main objectives of these projects are:
  - To develop accurate machine learning models for predicting specific variables.
